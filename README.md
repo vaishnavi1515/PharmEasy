@@ -61,6 +61,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
+<img width="1536" height="1024" alt="pharmacy" src="https://github.com/user-attachments/assets/5fc517c6-eac1-4711-9229-0de891446136" />
 
 
 ## RESULT:
