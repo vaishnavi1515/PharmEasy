@@ -266,7 +266,8 @@ footer {
 ```
 
 ## OUTPUT:
-<img width="1536" height="1024" alt="pharmacy" src="https://github.com/user-attachments/assets/5fc517c6-eac1-4711-9229-0de891446136" />
+<img width="1464" height="934" alt="pharmacy" src="https://github.com/user-attachments/assets/03031047-aa3d-4b37-9cef-9f6e804a74c0" />
+
 
 
 ## RESULT:
